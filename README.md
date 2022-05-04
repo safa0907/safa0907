@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Safa is an avid GIS engineer. Graduated with honors from School of Geomatics and land surveying engineering, IAV Hassan II (Morocco). Safa has done her graduation internship in France. After which, she had her first paper published in the International Journal of Geomatics (RIG) in 2019: “Shadow detection and correction using a combined 3D GIS and image processing approach”. 
+
+Award winning and lightning talk presenter at URISA’s GIS Pro digital competition 2019 edition. Extremely passionate and remarkably curious about new technology. My motto in life is “Go after what scares you the most” because why not!
+
+
+KEY WORDS: PYTHON, GEODJANGO, GIT, AUTOMATION, POSTGIS, SQL, ARCGIS PRO, QGIS, PYQT, ARCPY, ANACONDA, JUPYTER, JAVASCRIPT, LEALFET, OPENLAYERS, GEOSERVER, METEOBRIDGE, LIDAR, POINT CLOUD, ARCGIS COLLECTOR, OGC STANDARDS, WORKFLOW…
+
+
+- 📫 How to reach me: <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <!--
 **safa0907/safa0907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
