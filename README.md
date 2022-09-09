@@ -9,8 +9,7 @@ Award winning and lightning talk presenter at URISA’s GIS Pro digital competit
 
 🌱 I’m currently learning: AWS Cloud, Docker...
 
-📫 How to reach me: 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="safa-r-b2491b104" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://at.linkedin.com/in/safa-r-b2491b104/en?trk=profile-badge">Safa R.</a></div>
+📫 How to reach me: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="safa-r-b2491b104" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://at.linkedin.com/in/safa-r-b2491b104/en?trk=profile-badge">Safa R.</a></div>
 
 ### Technologies & Tools 👩‍💻
 <img src="https://camo.githubusercontent.com/5926e58a5e2b60235ac4660538be46ddfbbb915e806e47a5d41d86efa418167d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d507974686f6e2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d707974686f6e266c6f676f436f6c6f723d776869746526636f6c6f723d666636396234" alt="" data-canonical-src="https://img.shields.io/badge/Code-Python-informational?style=flat&amp;logo=python&amp;logoColor=white&amp;color=ff69b4" style="max-width: 100%;">
