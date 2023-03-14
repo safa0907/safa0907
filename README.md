@@ -7,7 +7,7 @@ Award winning and lightning talk presenter at URISA’s GIS Pro digital competit
 
 ##### KEY WORDS: PYTHON, GEODJANGO, GIT, AUTOMATION, POSTGIS, SQL, ARCGIS PRO, QGIS, PYQT, ARCPY, ANACONDA, JUPYTER, JAVASCRIPT, LEALFET, OPENLAYERS, GEOSERVER, METEOBRIDGE, LIDAR, POINT CLOUD, ARCGIS COLLECTOR, OGC STANDARDS, WORKFLOW…
 
-🌱 I’m currently learning: AWS Cloud, Docker...
+🌱 I’m currently learning: Docker...
 
 📫 How to reach me: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="safa-r-b2491b104" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://at.linkedin.com/in/safa-r-b2491b104/en?trk=profile-badge">Safa R.</a></div>
 
