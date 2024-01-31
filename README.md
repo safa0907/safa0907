@@ -13,8 +13,11 @@ Award winning and lightning talk presenter at URISA’s GIS Pro digital competit
 
 ### 🛠 Tech Stack
 💻   Python | JavaScript | Gdal | Osgeo Shell | ArcGIS API | Jupyter Notebook | Geodjango | Geospatial Libraries
+
 🌐   HTML | CSS | JavaScript
+
 🛢   MySQL | PostgreSQL | SQLite
+
 🔧   Git | GitHub | Azure Devops | AWS S3
 
 ### Publications 📰
