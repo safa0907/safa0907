@@ -9,6 +9,7 @@ Award winning and lightning talk presenter at URISA’s GIS Pro digital competit
 
 
 📫 How to reach me: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="safa-r-b2491b104" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://at.linkedin.com/in/safa-r-b2491b104/en?trk=profile-badge">Safa R.</a></div>
+![image](https://github.com/safa0907/safa0907/assets/74101237/0b711740-494c-410e-b5d0-41b54c0ae91c)
 
 
 ### 🛠 Tech Stack
